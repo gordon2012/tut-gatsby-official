@@ -13,7 +13,7 @@ module.exports = {
         background_color: '#6b37bf',
         theme_color: '#6b37bf',
         display: 'standalone',
-        icon: 'public/favicon.ico'
+        icon: 'static/favicon.ico'
       }
     },
     'gatsby-plugin-offline',
