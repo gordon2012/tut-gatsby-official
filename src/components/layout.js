@@ -1,4 +1,5 @@
 import React from 'react';
+import Helmet from 'react-helmet';
 import { css } from '@emotion/core';
 import { StaticQuery, Link, graphql } from 'gatsby';
 
@@ -24,6 +25,14 @@ export default ({ children }) => (
           padding-top: ${rhythm(1.5)};
         `}
       >
+        <Helmet>
+          <meta charSet="utf-8" />
+          <title>My Title</title>
+          <link
+            rel="canonical"
+            href="https://tut-gatsby-example.gordondoskas.com"
+          />
+        </Helmet>
         <Link to="/">
           <h3
             css={css`
