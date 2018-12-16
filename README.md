@@ -1,12 +1,11 @@
-# gatsby-starter-hello-world
-Starter with the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site.
+# Official Gatsby Tutorial
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
-```
+## Completion of the official Gatsby tutorial
 
-Or [view the live demo here](https://gatsby-starter-hello-world-demo.netlify.com/).
+### Tutorial
 
-## Running in development
-`gatsby develop`
+- [ ] Data in Gatsby: https://www.gatsbyjs.org/tutorial/part-four/
+- [ ] Source plugins and rendeing queried data: https://www.gatsbyjs.org/tutorial/part-five/
+- [ ] Transformer plugins: https://www.gatsbyjs.org/tutorial/part-six/
+- [ ] Programatically create pages from data: https://www.gatsbyjs.org/tutorial/part-seven/
+- [ ] Preparing a site to go live: https://www.gatsbyjs.org/tutorial/part-eight/
