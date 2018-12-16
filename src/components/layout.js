@@ -30,7 +30,7 @@ export default ({ children }) => (
           <title>My Title</title>
           <link
             rel="canonical"
-            href="https://tut-gatsby-example.gordondoskas.com"
+            href="https://tut-gatsby-official.gordondoskas.com"
           />
         </Helmet>
         <Link to="/">
